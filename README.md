@@ -1,5 +1,8 @@
 # VS Code Settings
 
+https://youtu.be/tMNOpaQrfAE?t=4525
+
+
 # Font
 
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
