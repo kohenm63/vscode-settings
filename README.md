@@ -180,6 +180,8 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
 
 # Keybindings
 
+https://youtu.be/tMNOpaQrfAE?t=4805
+
 ```json
 [
   {
