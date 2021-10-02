@@ -63,7 +63,9 @@ See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd353
 * [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
   * Collaborative editing, debugging, and more inside VS Code
 
-# Settings
+# Settings 
+https://youtu.be/tMNOpaQrfAE?t=4744
+open settings.json=>
 
 ```json
 {
